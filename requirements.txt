@@ -3,4 +3,3 @@ pandas
 scikit-learn
 streamlit
 google-generativeai
-pickle
